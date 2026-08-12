@@ -169,6 +169,16 @@
 
 ---
 
+### 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikadamas&theme=tokyo-night&hide_border=true&area=true" alt="Pratik's Contribution Graph" width="98%" />
+
+</div>
+
+---
+
 <div align="center">
 
 ### ⚡ *"The best way to predict the future is to build it."*
