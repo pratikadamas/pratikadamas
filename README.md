@@ -1,10 +1,14 @@
 <div align="center">
 
-# Hey there! 👋 I'm **Pratik Giri**
+<a href="https://github.com/pratikadamas">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=BD93F9&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+Profile!;I'm+Pratik+Giri+%E2%80%94+Let's+Build+Together!" alt="Typing SVG" />
+</a>
 
 ### 🎓 Computer Science Student · 🤖 AI & ML Enthusiast · 🛠️ Backend Developer
 
-[![Profile Views](https://komarev.com/ghpvc/?username=pratikadamas&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/pratikadamas)
+![GATE Qualified](https://img.shields.io/badge/🏅_GATE_Qualified-CS%2FIT_2026-gold?style=for-the-badge&labelColor=2e7d32)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=pratikadamas&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/pratikadamas)
 
 </div>
 
