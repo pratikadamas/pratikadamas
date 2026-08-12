@@ -101,7 +101,14 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+</p>
+
+#### 🎨 Design
+
+<p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
 </p>
 
 #### ⚙️ Backend & Frameworks
@@ -140,6 +147,15 @@
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 </p>
 
+#### 🖥️ IDEs & Editors
+
+<p>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Antigravity_IDE-BD93F9?style=for-the-badge&logo=google&logoColor=white" alt="Antigravity" />
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
+</p>
+
 #### ☁️ Cloud & Deployment
 
 <p>
@@ -160,14 +176,13 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=pratikadamas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Pratik's GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikadamas&theme=tokyonight&hide_border=true" alt="Pratik's GitHub Streak" />
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=pratikadamas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="Pratik's GitHub Stats" />
+&nbsp;
+<img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikadamas&theme=tokyonight&hide_border=true" alt="Pratik's GitHub Streak" />
 
-</div>
+<br/>
 
-<div align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikadamas&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikadamas&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
 
