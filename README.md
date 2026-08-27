@@ -1,5 +1,8 @@
 <div align="center">
 
+
+
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=06B6D4&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+Profile!;Pratik+Giri+%E2%80%94+Let's+Build+Together!" alt="Typing SVG" />
 </a>
 
