@@ -191,14 +191,14 @@ Database design, scalable storage, and pipeline integrations for complex data.
 <br/>
 
 <!-- ===================== CONTRIBUTION SNAKE ===================== -->
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="22" valign="middle"/>&nbsp; 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐒𝐧𝐚𝐤𝐞</h3>
+<!-- <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="22" valign="middle"/>&nbsp; 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐒𝐧𝐚𝐤𝐞</h3>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pratikadamas/pratikadamas/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pratikadamas/pratikadamas/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pratikadamas/pratikadamas/output/github-contribution-grid-snake.svg">
   </picture>
-</p>
+</p> -->
 
 </div>
 
